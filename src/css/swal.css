@@ -1,0 +1,13 @@
+.swal-modal {
+  background-color: rgb(94, 94, 94);
+  border: 5px solid black;
+}
+
+.swal-text {
+  color: white;
+  font-size: 24pt;
+}
+
+.swal-button {
+  background-color: green;
+}

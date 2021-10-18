@@ -1,0 +1,26 @@
+.card-wrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: green;
+  max-width: 800px;
+  margin: 0 auto;
+  height: auto;
+}
+
+.game-wrap {
+  background-color: green;
+  color: white;
+}
+
+.game-info {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  width: 150px;
+  padding: 5px;
+  margin: 0 auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
